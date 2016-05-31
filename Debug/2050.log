@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  2050.cpp
+c:\users\rossa_000\documents\visual studio 2015\projects\2050\2050\2050.cpp(58): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  2050.vcxproj -> c:\users\rossa_000\documents\visual studio 2015\Projects\2050\Debug\2050.exe
